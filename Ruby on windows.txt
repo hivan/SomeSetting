@@ -1,0 +1,25 @@
+
+# Rails Environment Configuration.
+
+---
+git:
+  user.name:  Hivan Du
+  user.email: ivandoo75@gmail.com
+  version:    git version 1.7.9.msysgit.0
+
+ruby:
+  bin:        c:/RailsInstaller/Ruby1.9.2/bin/ruby.exe
+  version:    ruby 1.9.3p125 (2012-02-16) [i386-mingw32]
+
+rails:
+  bin:        c:/RailsInstaller/Ruby1.9.2/bin/rails.bat
+  version:    Rails 3.2.1
+
+ssh:
+  public_key_location: C:\Users\Hivan/.ssh/id_rsa.pub
+  public_key_contents: ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAzLV5wICfOzkyVvn80qTR/
+XTRWVnCakZjISAVc9M3G2kj4Rn7RFZHUvREDLg5n5GVL96teulxER6XBE6gt6owtImle2EEVkPq1A9hb
+D9o/DNHqHcU6dFuOnP0r4oLD7uYhm2jLggSaYElx9M0AV1qqKn3D5dVc1HL5omN1ig6QFSuLOiyYDlir
+lA0Wdmx6dvrd9HlYnXsoI/JxqCnsDlgGz1N1DoY8T0eOEERCEf7esQ1fnmCVpvQQCA+krRXBRWvZuRAS
+Qvh7fyzUCWw3T9FVh8Qubgp5cJh4ziY/8Doy1nVEI8so9bhlVKXVDCzTwmBa+E0gzkEnmQqll7mXVrC+
+Q== ivandoo75@gmail.com
